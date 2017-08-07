@@ -1,8 +1,8 @@
 ## PLOT 1 OVERVIEW
-
+ 
 #Reads in the “Individual household electric power consumption Data Set” available from the UC Irvine Machine Learning Repository, and produces a histogram of the frequency of Global Active Power consumption in kilowatts for the dates February 1 and 2, 2007. 
 
-##PLOT 1 STEP-BY-STEP
+##PLOT 1 STEP-BY-STEP 
 
 #1 plot1("name of file here") starts the function. For example: plot1("household_power_consumption.txt")
 #2 the file is read into R and assigned to the power variable 
