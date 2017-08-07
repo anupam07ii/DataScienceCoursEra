@@ -1,6 +1,6 @@
 # Plotting Power Consumption
-Daniel Maurath  
-June, 2014  
+Anupam Kumar
+7th Aug 2017
 ###About
 This was the first project for the **Exploratory Data Analysis** course in Coursera's Data Science specialization track. The objective was to practice creating plots by reproducing a series of four plots, and also to practice using github by forking and cloning an existing repository.
 
