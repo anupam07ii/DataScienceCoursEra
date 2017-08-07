@@ -1,4 +1,8 @@
 ## PLOTTING 2 OVERVIEW
+Anupam Kumar
+7th Aug 2017
+
+
 A course project completed as a part of the Exploratory Data Analysis course. The objective was to practice reshaping and plotting data as well as how to make decisions how to interpret and present data. 
 
 
