@@ -71,9 +71,7 @@ plot1()
 
 ![plot of chunk unnamed-chunk-2](./Plotting_1_files/figure-html/unnamed-chunk-2.png) 
 
-```
-## Plot1.png has been saved in /Users/dmaurath/Documents/JHDS/datasciencecoursera/Exploratory Data Analysis Projects/Plotting 1
-```
+
 ##Plot 2
 <img src="https://raw.githubusercontent.com/rdpeng/ExData_Plotting1/master/figure/unnamed-chunk-3.png"/>
 
@@ -91,9 +89,7 @@ plot1()
 
 ![plot of chunk unnamed-chunk-3](./Plotting_1_files/figure-html/unnamed-chunk-3.png) 
 
-```
-## plot2.png has been saved in /Users/dmaurath/Documents/JHDS/datasciencecoursera/Exploratory Data Analysis Projects/Plotting 1
-```
+
 ##Plot 3
 <img src="https://raw.githubusercontent.com/rdpeng/ExData_Plotting1/master/figure/unnamed-chunk-4.png"/>
 
@@ -114,9 +110,7 @@ plot3()
 
 ![plot of chunk unnamed-chunk-4](./Plotting_1_files/figure-html/unnamed-chunk-4.png) 
 
-```
-## plot3.png has been saved in /Users/dmaurath/Documents/JHDS/datasciencecoursera/Exploratory Data Analysis Projects/Plotting 1
-```
+
 
 ##Plot 4
 <img src="https://raw.githubusercontent.com/rdpeng/ExData_Plotting1/master/figure/unnamed-chunk-5.png"/>
@@ -151,6 +145,4 @@ plot4()
 
 ![plot of chunk unnamed-chunk-5](./Plotting_1_files/figure-html/unnamed-chunk-5.png) 
 
-```
-## plot4.png has been saved in /Users/dmaurath/Documents/JHDS/datasciencecoursera/Exploratory Data Analysis Projects/Plotting 1
-```
+
